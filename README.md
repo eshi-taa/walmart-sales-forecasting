@@ -1,48 +1,48 @@
-\# Walmart Weekly Sales Forecasting
+# Walmart Weekly Sales Forecasting
 
 
 
-\## Objective
+## Objective
 
 Forecast weekly sales using machine learning models and economic indicators.
 
 
 
-\## Models Used
+## Models Used
 
-\- Linear Regression
+- Linear Regression
 
-\- Random Forest Regressor
-
-
-
-\## Evaluation Metrics
-
-\- MAE
-
-\- RMSE
-
-\- R² Score
-
-\- TimeSeries Cross Validation
+- Random Forest Regressor
 
 
 
-\## Key Findings
+## Evaluation Metrics
 
-\- Random Forest outperformed Linear Regression
+- MAE
 
-\- Unemployment, Temperature, and CPI were most important features
+- RMSE
 
-\- Model explains ~25% of variance in weekly sales
+- R² Score
 
-\- Residual analysis shows heteroscedasticity at higher sales levels
+- TimeSeries Cross Validation
 
 
 
-\## Future Improvements
+## Key Findings
 
-\- Hyperparameter tuning
+- Random Forest outperformed Linear Regression
+
+- Unemployment, Temperature, and CPI were most important features
+
+- Model explains ~25% of variance in weekly sales
+
+- Residual analysis shows heteroscedasticity at higher sales levels
+
+
+
+## Future Improvements
+
+- Hyperparameter tuning
 
 \- XGBoost implementation
 
